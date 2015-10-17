@@ -1,3 +1,5 @@
 .idea
 target
-*.impl
+*.iml
+.DS_Store
+*/*/.DS_Store
